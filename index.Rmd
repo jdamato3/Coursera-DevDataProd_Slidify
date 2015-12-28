@@ -13,6 +13,8 @@ knit        : slidify::knit2slides
 
 ## Spherical Calculations
 
+Need to calculate spherical specfications on the fly? Fear not! The sphere calculating shiny app is here!
+
 Based on the user's input of a radius through the API, the Shiny App will calculate the following attributes of a sphere:
 * Diameter
 * Volume
